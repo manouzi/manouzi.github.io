@@ -1,0 +1,1 @@
+import{t as e}from"./demos.DebBeM_P.js";e();
