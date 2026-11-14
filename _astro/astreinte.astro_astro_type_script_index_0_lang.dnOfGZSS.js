@@ -1,0 +1,1 @@
+import{t as e}from"./demos.CIb1K4Qb.js";e();
