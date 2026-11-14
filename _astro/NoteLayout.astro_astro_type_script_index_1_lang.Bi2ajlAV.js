@@ -1,0 +1,1 @@
+import{t as e}from"./demos.DMc8XxP8.js";e();
