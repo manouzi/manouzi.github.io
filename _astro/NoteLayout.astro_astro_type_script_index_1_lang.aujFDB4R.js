@@ -1,0 +1,1 @@
+import{t as e}from"./demos.DuMwus7S.js";e();
