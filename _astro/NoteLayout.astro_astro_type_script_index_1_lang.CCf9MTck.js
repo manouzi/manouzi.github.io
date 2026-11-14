@@ -1,1 +1,0 @@
-import{t as e}from"./demos.BSfeid_x.js";e();
