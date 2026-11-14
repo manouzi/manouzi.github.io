@@ -1,1 +1,0 @@
-import{t as e}from"./demos.VYKjxOh1.js";e(),document.addEventListener(`click`,e=>{let t=e.target.closest(`[data-seq-more]`);if(!t)return;let n=t.closest(`.pd-seq`).classList.toggle(`is-open`);t.setAttribute(`aria-expanded`,String(n))});
