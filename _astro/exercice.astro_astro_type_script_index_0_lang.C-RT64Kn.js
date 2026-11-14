@@ -1,0 +1,1 @@
+import{t as e}from"./demos.BC2-m0cC.js";e();
